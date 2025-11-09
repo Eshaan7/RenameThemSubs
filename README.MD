@@ -23,6 +23,9 @@ You download a TV show from torrent and find the suitable subtitle files from so
 Renaming every subtitle file to match the video file is a pain in the ass, isn't it?
 That's where this app comes in handy.
 
+## renamethesubs-anime version
+Works more suitably with anime video subtitles.
+
 ## Motivation behind such a silly project
 A few years back I would often have to manually rename all subtitle files to match episode name and I always wondered why isn't there a
 software that does it for you ? Well, <a href="https://www.youtube.com/watch?v=EzWNBmjyv7Y">fine, I'll do it myself.</a> 
